@@ -22,6 +22,9 @@
                                 <rect key="frame" x="80" y="307" width="214" height="52"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Git Repository Example"/>
+                                <connections>
+                                    <action selector="BtnAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="75Z-ml-BNH"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="My new label in a new branch" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o0X-tD-LhX">
                                 <rect key="frame" x="27" y="142" width="332" height="72"/>

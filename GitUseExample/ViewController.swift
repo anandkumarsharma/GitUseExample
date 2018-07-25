@@ -21,7 +21,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    
 
-
+    @IBAction func BtnAction(_ sender: UIButton) {
+        print("You Finished");
+    }
+    
 }
 
