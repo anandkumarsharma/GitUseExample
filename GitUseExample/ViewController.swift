@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("djsfadjsfsdfds");
+        print("djsfadjsfsdfds");
         // Do any additional setup after loading the view, typically from a nib.
         
         print("This is a Git tutorial")
